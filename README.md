@@ -1,14 +1,14 @@
 # Tableau_Challenge
 
-## Phenomenon 1: Impact of Covid-19 on City Bikes Trips
+### Phenomenon 1: Impact of Covid-19 on City Bikes Trips
 Link to deployed story can be found [here](https://public.tableau.com/profile/umar.farooq8069#!/vizhome/City_Bikes_Trip_Analysis_Covid/CovidStory)
 
-## Phenomenon 2: Identifying Target Market based on Age, Gender and Popular Location
+### Phenomenon 2: Identifying Target Market based on Age, Gender and Popular Location
 Link to deployed story can be found [here](https://public.tableau.com/views/City_Bikes_Trip_Analysis_Covid/GENDERAGE?:language=en-GB&:display_count=y&:origin=viz_share_link)
 
-# Analysis:
+## Analysis:
 
-## Phenomenon 1: Impact of Covid-19 on City Bikes Trips
+### Phenomenon 1: Impact of Covid-19 on City Bikes Trips
 
 1. A six-week lockdown implemented in the months of March & April, 2020, substantially decreased the number of trips for City-Bikes. The decrease in trips started in February, but a major dip of 36% was observed in the month of April. This dip can be attributed to the strict lockdown which was implemented in New York City because of increase in number of COVID-19 cases. 
 
@@ -18,7 +18,7 @@ Link to deployed story can be found [here](https://public.tableau.com/views/City
 
 4. One of the unsually phenomenon that was observed was the fact that while the number of trips where decreasing the average trip duration increased during the months of lockdown. Maybe it can be attributed to people preferring to travel on bikes alone instead of taxis, which can spread COVID-19 faster; however, more analysis might be required to explain this trend completely. It was also observed that 'females' average trip duration was slight longer then 'males' average trip duration. A [detailed graph](https://public.tableau.com/shared/2Z7GND3Y9?:display_count=n&:origin=viz_share_link) highlights this phenonmenon. 
 
-## Phenomenon 2: Identifying Target Market based on Gender, Age & Location.
+### Phenomenon 2: Identifying Target Market based on Gender, Age & Location.
 
 1. After looking at the data, it can be observed that male dominate the bikes trip market, as 60.83% of the riders are male, while only 28.16% of the riders are female. However it can be observed that in the months following the strict covid lockdown May - August, number of female riders have increased increasing the ratio of male to female bike riders. The [bar chart](https://public.tableau.com/views/City_Bikes_Trip_Analysis_Covid/GENDERAGE?:language=en-GB&:retry=yes&:display_count=y&:origin=viz_share_link) shows the changing trend in later months.
 
@@ -26,4 +26,4 @@ Link to deployed story can be found [here](https://public.tableau.com/views/City
 
 3. It was also observed that [12 Ave & W 40 St](https://public.tableau.com/profile/umar.farooq8069#!/vizhome/City_Bikes_Trip_Analysis_Covid/GENDERAGE) is the most popular start and end point of the riders.
 
-4. From the analysis above it can be deduced that any future marketing campaigns can benefit if the male population of age 28 - 32, located near 12 Ave & W 40 St be targed. 
+4. From the analysis above, it can be deduced that any future marketing campaigns can benefit if the male population of age 28 - 32, located near 12 Ave & W 40 St be targed. 
