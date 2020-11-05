@@ -1,4 +1,4 @@
-# Tableau_Challenge
+# Tableau - City Bikes Trips Data Analysis
 
 ### Phenomenon 1: Impact of Covid-19 on City Bikes Trips
 Link to deployed story can be found [here](https://public.tableau.com/profile/umar.farooq8069#!/vizhome/City_Bikes_Trip_Analysis_Covid/CovidStory)
