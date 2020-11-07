@@ -1,6 +1,6 @@
 # Tableau - Citi Bike Trips Data Analysis
 
-### Phenomenon 1: Impact of Covid-19 on City Bikes Trips
+### Phenomenon 1: Impact of Covid-19 on Citi Bike Trips
 Link to deployed story can be found [here](https://public.tableau.com/profile/umar.farooq8069#!/vizhome/City_Bikes_Trip_Analysis_Covid/CovidStory)
 
 ### Phenomenon 2: Identifying Target Market based on Age, Gender and Popular Location
